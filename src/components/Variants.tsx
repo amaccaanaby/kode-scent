@@ -1,4 +1,3 @@
-import Devider from "./Devider";
 import Buttons from "./Buttons";
 
 

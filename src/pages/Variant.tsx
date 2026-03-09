@@ -54,7 +54,7 @@ function Variant(){
                 <div className="flex flex-col items-center gap-4">
                     <div className="flex gap-2">
                         <img src="/images/Whatsapp-logo.svg" alt="Whatsapp Logo" className="size-6"/>
-                        <p>:<a href="https://wa.me/081398858995" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600"> 0813-9885-8995</a></p>
+                        <p>:<a href="https://wa.me/6281398858995" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600"> 0813-9885-8995</a></p>
                     </div>
 
                     <div className="flex gap-2">

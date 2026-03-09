@@ -1,0 +1,17 @@
+@import "tailwindcss"; 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Montserrat:wght@400;600;700;800&display=swap');
+
+@layer base {
+  /* Semua tulisan biasa (P, LI, SPAN, dll) pake Inter */
+  body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Semua judul (H1, H2, H3, H4) otomatis pake Montserrat */
+  h1, h2, h3, h4, .logo-font {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.1em; /* Biar khas luxury brand */
+    text-transform: uppercase; /* Biar tegas kayak di desain lo */
+  }
+}

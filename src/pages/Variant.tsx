@@ -45,7 +45,7 @@ function Variant(){
                 />  
             </div>
 
-            <div className="flex flex-col items-center justify-center text-center gap-10 p-20 bg-black text-white max-w-4xl mx-auto">
+            <div className="flex flex-col items-center justify-center text-center gap-10 p-20 bg-black text-white">
                 <div className="flex flex-col gap-4">
                     <p className="text-5xl font-semibold">Interested in KŌDE?</p>
                     <p>Contact us for more information on availability and pricing</p>

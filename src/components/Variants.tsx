@@ -45,7 +45,7 @@ const Variants = ({ name, description, image, topNotes, middleNotes, baseNotes, 
                     {showButton && (
                         <Buttons 
                         text={"Contact Us"} 
-                        link={"https://wa.me/081398858995"} 
+                        link={"https://wa.me/6281398858995"} 
                     />
                     )}
                     
